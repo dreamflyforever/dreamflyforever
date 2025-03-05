@@ -4,11 +4,12 @@
 - [检测司机危险驾驶行为](https://github.com/dreamflyforever/easyai)
 - [视觉开发板](https://github.com/dreamflyforever/amv)
 - [鱼眼标定](https://github.com/dreamflyforever/fisheye_calibrate)
+- [半监督训练工具](https://github.com/dreamflyforever/yolo_tool)
 - [协程框架](https://github.com/dreamflyforever/PT)
 - [实时操作系统](https://github.com/dreamflyforever/fos)
 - [rt-thread系统移植openrisc芯片](https://github.com/dreamflyforever/rt-thread-1.1.0)
 - [操作系统启动程序](https://github.com/dreamflyforever/mini_bootload)
-- [高效率的音频编码](https://github.com/dreamflyforever/speex_package)
+- [高效率的音频编码speex](https://github.com/dreamflyforever/speex_package)[vox](https://github.com/dreamflyforever/vox)   
 ...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dreamflyforever&layout=compact)](https://github.com/dreamflyforever/github-readme-stats)
